@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/shcDE/shcde.github.io.git
+	branch = master
+[submodule "shcde.github.io"]
+	path = shcde.github.io
+	url = https://github.com/shcDE/shcde.github.io.git
+	branch = master
