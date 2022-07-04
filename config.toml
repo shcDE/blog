@@ -11,7 +11,6 @@ paginate = 4
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
-publishDir = “docs”
 
 [params]
   [params.designer]
