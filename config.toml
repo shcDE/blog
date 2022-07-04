@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
     fullName = "shcDE" # optional. If set, it will display on author card
     bio = "It's time to flex. Write a short or not-so-short summary about yourself."
     photo = "myPhotoFile.jpg"
-    url = "https://myURLofChoice.domain"
+    url = "https://github.com/shcDE/shcde.github.io.git"
     ga_analytics = "G-XCDRBEN300" # google analytics ID e.g UA-116386578-1
 
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
