@@ -7,7 +7,7 @@ tags:
 - about
 keywords:
 - about
-# thumbnailImage: https://cdn.pixabay.com/photo/2015/09/05/23/25/business-926221_1280.jpg
+image: https://github.com/shcDE/pictures/blob/main/images_for_blog/business-gb1f55b807_1920.jpg?raw=true
 ---
 
 ![카페](https://cdn.pixabay.com/photo/2015/09/05/23/25/business-926221_1280.jpg)

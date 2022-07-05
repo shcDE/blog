@@ -7,6 +7,8 @@ tags:
 - python
 keywords:
 - coding-test
+banner: "./images/골드인증샷.png"
+image: https://github.com/shcDE/pictures/blob/main/images_for_blog/business-gb1f55b807_1920.jpg?raw=true
 ---
 
 # 두 달 전까지만 해도 비개발 직군 종사자였던 내가 골드?
