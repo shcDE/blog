@@ -7,7 +7,7 @@ tags:
 - python
 keywords:
 - coding-test
-image: solved.jpg
+image: programming-g530c6d207_1920.jpg
 ---
 
 # 두 달 전까지만 해도 비개발 직군 종사자였던 내가 골드?
