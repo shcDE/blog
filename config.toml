@@ -48,18 +48,10 @@ pygmentsCodefencesGuessSyntax = true
     url = "categories/about/"
     weight = 2
   [[menu.main]]
-    name = "Projects"
-    url = "categories/projects/"
-    weight = 3
-  [[menu.main]]
-    name = "Python"
-    url = "categories/python/"
-    weight = 4
-  [[menu.main]]
     name = "Free Talk"
     url = "categories/freetalk/"
-    weight = 5
+    weight = 3
   [[menu.main]]
     name = "Data Engineering"
     url = "categories/dataengineering/"
-    weight = 6
+    weight = 4

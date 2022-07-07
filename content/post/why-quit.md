@@ -2,11 +2,11 @@
 title: "취업준비생으로 돌아온 이유"
 date: 2022-07-05T20:10:22+09:00
 categories:
-- about
+- freetalk
 tags:
-- about
+- freetalk
 keywords:
-- about, quit, job
+- freetalk, quit, job
 image: job-search-gc18b36b39_1920.jpg
 ---
 
