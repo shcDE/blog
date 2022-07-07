@@ -34,9 +34,6 @@
   <article class='post_content'>
     {{- .Content }}
     {{ if in $p.mainSections .Type }}
-    <div class = 'post_extra'>
-      {{- partialCached "copy" . }}
-    </div>
     {{- partial "author" . }}
     {{ end }}
   </article>
