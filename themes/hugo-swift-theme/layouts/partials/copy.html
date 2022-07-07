@@ -1,3 +1,24 @@
+<div id=inline class="out">
+  {{ .Date.Format "2006-01-02" }}
+</div>
 <div class = 'copy' data-share = '{{ T "copy" }}' data-copied = '{{ T "link_copied" }}'>
   {{- partial "sprite" (dict "icon" "copy") }}
 </div>
+
+<style>
+  .out {
+  border: 2px solid rgb(255, 132, 0);
+  background-color: rgb(255, 132, 0);
+  width: 100px;
+  height: 25px;
+  border-radius: 5px;
+  font:14px 나눔고딕;
+  font-weight:bold;
+}
+
+#inline {
+  text-align: center;
+  line-height: 20px;
+  color : white;
+}
+</style>
