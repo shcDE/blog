@@ -21,9 +21,9 @@
     {{ $dateFormat := $.Site.Params.dateFormat | default "Mon, 02 Jan 2006 15:04 MST" }}
     {{ $publishDate := .PublishDate }}
     {{ $Date := .Date }}
-    <strong aria-hidden="true"> Created date: </strong>{{ $Date.Format $dateFormat }}
+    <strong aria-hidden="true"> </strong>
     <br>
-    <strong aria-hidden="true">Publish date: </strong>{{ $publishDate.Format $dateFormat }}
+    <strong aria-hidden="true">Created date: </strong>{{ $Date.Format $dateFormat }}
     {{ with .Lastmod }}
       {{ if gt . $publishDate }}
         <br>
