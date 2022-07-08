@@ -1,6 +1,7 @@
 <head>
   <title>{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}</title>
   <meta charset='utf-8'>
+  {{ partial "adsense.html" . }}
   {{ hugo.Generator }}
   {{ template "_internal/google_analytics.html" . }}
   {{- with .Site.Params.ga_verify }}
