@@ -11,6 +11,8 @@ paginate = 4
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
+# robots.txt
+enableRobotsTXT = true
 
 [params]
   [params.designer]
