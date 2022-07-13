@@ -21,4 +21,12 @@
   {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
   {{- $styles := resources.Get "sass/main.sass" | resources.ExecuteAsTemplate "main.sass" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
   <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}'>
+  {{if .IsPage}}  <!-- Single Page에만 작동하도록 설정하는 Hugo 명령어 -->
+  <!--Prism-->
+  <link rel="stylesheet" href="{{ "css/prism.css" | relURL }}" media="none" onload="this.media='all';">
+  <!-- 저장된 경로가 static/css/prism.css이 아니라면 src 경로를 수정해야한다. -->
+  <script defer language="javascript" type="text/javascript"  src="{{ "/js/prism.js" | urlize | relURL }}"></script>
+  <!-- 저장된 경로가 static/js/prism.js이 아니라면 src 경로를 수정해야한다. -->
+{{end}}
+
 </head>
