@@ -2,9 +2,9 @@
 title: "파이썬을 활용하여 맵리듀스 구현하기"
 date: 2022-07-17T17:54:03+09:00
 categories:
-- dataengineering
+- development
 tags:
-- dataengineering
+- development
 keywords:
 - data engineering, python, development, mapreduce
 image: wordcloud-gdaa80a00f_1280.png

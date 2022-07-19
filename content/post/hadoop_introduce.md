@@ -2,9 +2,9 @@
 title: "하둡 버전별 소개"
 date: 2022-07-12T21:57:05+09:00
 categories:
-- dataengineering
+- development
 tags:
-- dataengineering
+- development
 keywords:
 - data engineering, hadoop, development
 image: elephants-g07073c915_1920.jpg

@@ -54,6 +54,6 @@ enableRobotsTXT = true
     url = "categories/freetalk/"
     weight = 3
   [[menu.main]]
-    name = "Data Engineering"
-    url = "categories/dataengineering/"
+    name = "Development"
+    url = "categories/development/"
     weight = 4

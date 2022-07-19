@@ -2,9 +2,9 @@
 title: "코딩테스트 플랫폼 백준 골드 달성 후기"
 date: 2022-07-04T19:18:51+09:00
 categories:
-- dataengineering
+- development
 tags:
-- dataengineering
+- development
 keywords:
 - coding-test
 image: gold.jpg

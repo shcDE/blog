@@ -2,9 +2,9 @@
 title: "하둡에서 YARN 명령어 실행하기"
 date: 2022-07-18T16:03:22+09:00
 categories:
-- dataengineering
+- development
 tags:
-- dataengineering
+- development
 keywords:
 - data engineering, python, development, mapreduce
 image: knit-g8e2df2961_1920.jpg

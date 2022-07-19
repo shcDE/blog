@@ -2,9 +2,9 @@
 title: "HDFS는 어떻게 사용할까요?(2) [HDFS 명령어(상)]"
 date: 2022-07-14T15:19:08+09:00
 categories:
-- dataengineering
+- development
 tags:
-- dataengineering
+- development
 keywords:
 - data engineering, hadoop, development, hdfs
 image: elephants-g07073c915_1920.jpg

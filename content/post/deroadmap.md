@@ -2,9 +2,9 @@
 title: "신입을 위한 데이터 엔지니어링 로드맵"
 date: 2022-07-08T15:31:50+09:00
 categories:
-- dataengineering
+- development
 tags:
-- dataengineering
+- development
 keywords:
 - data engineering, data, engineering, roadmap, development
 image: deroadmap.png
