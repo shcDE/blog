@@ -2,9 +2,9 @@
 title: "About"
 date: 2022-07-03T13:52:32+09:00
 categories:
-- about
+- freetalk
 tags:
-- about
+- freetalk
 keywords:
 - about
 image: business-gb1f55b807_1920.jpg
