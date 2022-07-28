@@ -1,7 +1,7 @@
 <head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3031042205762577" crossorigin="anonymous"></script>
   <title>{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}</title>
   <meta charset='utf-8'>
-  {{ partial "adsense.html" . }}
   {{ hugo.Generator }}
   {{ template "_internal/google_analytics.html" . }}
   {{- with .Site.Params.ga_verify }}
@@ -21,7 +21,6 @@
   {{- $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed" "enableSourceMap" "true") -}}
   {{- $styles := resources.Get "sass/main.sass" | resources.ExecuteAsTemplate "main.sass" . | resources.ToCSS $options | resources.Fingerprint "sha512" }}
   <link rel = 'stylesheet' href = '{{ $styles.Permalink }}' integrity = '{{ $styles.Data.Integrity }}'>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3031042205762577" crossorigin="anonymous"></script>
   {{if .IsPage}}  <!-- Single Page에만 작동하도록 설정하는 Hugo 명령어 -->
   <!--Prism-->
   <link rel="stylesheet" href="{{ "/Users/shc/Desktop/blog/themes/hugo-swift-theme/static/css/prism.css" | relURL }}" media="none" onload="this.media='all';">
