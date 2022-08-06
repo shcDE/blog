@@ -93,7 +93,7 @@ ________________________________________________________________________________
 #### 감사합니다.
 _________________________________________________________________________________________________________________________________________________________________________
 [레퍼런스]
-1. 이것이 MySQL이다 : http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242780
-2. noSQL 기초 개념 정리 : https://inpa.tistory.com/entry/DB-📚-NoSQL-개념-정리
-3. 빅데이터 - 하둡, 하이브로 시작하기 : https://wikidocs.net/book/2203
-4. Awesome Data Engineering : https://awesomedataengineering.com/
+1. 이것이 MySQL이다 : 'http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242780'
+2. noSQL 기초 개념 정리 : 'https://inpa.tistory.com/entry/DB-📚-NoSQL-개념-정리'
+3. 빅데이터 - 하둡, 하이브로 시작하기 : 'https://wikidocs.net/book/2203'
+4. Awesome Data Engineering : 'https://awesomedataengineering.com/'
